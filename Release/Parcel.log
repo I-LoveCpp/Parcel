@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\王懋源\实验室\Parcel\code\lib\Console.h(271,8): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(271,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(271,23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(277,8): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(277,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(277,23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(382,25): warning C4552: ”>“: 未使用表达式结果
+D:\王懋源\实验室\Parcel\code\lib\Console.h(389,21): warning C4552: ”>“: 未使用表达式结果
+D:\王懋源\实验室\Parcel\code\lib\Console.h(392,20): warning C4552: ”>“: 未使用表达式结果
+D:\王懋源\实验室\Parcel\code\lib\Console.h(422,22): warning C4552: ”>“: 未使用表达式结果
+D:\王懋源\实验室\Parcel\code\lib\Console.h(499,30): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(504,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(520,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\王懋源\实验室\Parcel\code\lib\Console.h(532,21): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\Console.h(560,24): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\lib\alg\big.h(74,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\王懋源\实验室\Parcel\code\lib\alg\big.h(74,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\王懋源\实验室\Parcel\code\lib\alg\big.h(74,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\王懋源\实验室\Parcel\code\lib\alg\big.h(74,11): message : 此参数用作缓冲区大小
+D:\王懋源\实验室\Parcel\code\main.cpp(8,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\main.cpp(18,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\王懋源\实验室\Parcel\code\main.cpp(49,7): warning C4101: “buf”: 未引用的局部变量
+D:\王懋源\实验室\Parcel\code\main.cpp(100,15): warning C4244: “参数”: 从“long double”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  8 of 573 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Parcel.vcxproj -> D:\王懋源\实验室\Parcel\Release\Parcel.exe
